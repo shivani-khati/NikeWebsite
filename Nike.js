@@ -1,5 +1,5 @@
 let currentScroll = 0;
-const scrollAmount = 320; // Adjust based on card width + gap
+const scrollAmount = 320;
 const track = document.querySelector('.slide-track');
 const slider = document.querySelector('.slider');
 
